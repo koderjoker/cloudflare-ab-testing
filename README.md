@@ -1,6 +1,6 @@
 # Cloudflare A/B testing
 
-An application to simulate A/B testing. [Deployed on Cloudflare Workers, can be found here](https://kanchan-cloudflare-intern-project.koderjoker.workers.dev/).
+A/B testing for an application. [Deployed on Cloudflare Workers, can be found here](https://kanchan-cloudflare-intern-project.koderjoker.workers.dev/).
 
 Submission for Cloudflare’s 2020 summer full stack internship [application](https://github.com/cloudflare-internship-2020/internship-application-fullstack).
 
