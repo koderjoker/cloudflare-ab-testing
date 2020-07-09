@@ -1,0 +1,4 @@
+name = "kanchan-cloudflare-intern-project"
+type = "javascript"
+account_id = ""
+workers_dev = true
